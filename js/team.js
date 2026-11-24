@@ -4,13 +4,13 @@ const prodentsTeam = [
         name: "Shaju Meetna",
         role: "Founder & Managing Partner",
         // specialty: "Corporate Strategy & Operational Turnaround",
-        bio: "18+ years advising enterprise boards on multi-market expansion, margin architecture, and organizational restructuring.",
+        bio: "An industry-turned-academician with eighteen years of distinguished service in the Indian Air Force and four years in academia. Bringing strong leadership, his expertise spans organisational analysis and human capital strategy.",
         photo: "images/",
-        initials: "AM",
+        initials: "SM",
         socials: {
-            linkedin: "https://linkedin.com",
+            linkedin: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shaju-meetna-1685ba130&ved=2ahUKEwitkvmbio-YAxWUlOEIHSxhAe0QFnoECCwQAQ&sqi=2&usg=AOvVaw1rRT9FY0rBMTB83OogZ7YE",
            
-            email: "mailto:arjun@prodents.com"
+            email: "shaju.meetna@prodentsadvisory.com"
         }
     },
     {
