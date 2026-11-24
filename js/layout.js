@@ -16,9 +16,9 @@ tailwind.config = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Inter', 'sans-serif'],
-                display: ['"Playfair Display"', 'Georgia', 'serif'],
-            },
+  sans: ['Poppins', 'sans-serif'],
+  display: ['Poppins', 'sans-serif'],
+},
             colors: {
                 apex: {
                     navy: '#0a1930',
