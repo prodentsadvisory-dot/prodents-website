@@ -10,7 +10,7 @@ const prodentsTeam = [
         socials: {
             linkedin: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shaju-meetna-1685ba130&ved=2ahUKEwitkvmbio-YAxWUlOEIHSxhAe0QFnoECCwQAQ&sqi=2&usg=AOvVaw1rRT9FY0rBMTB83OogZ7YE",
            
-            email: "shaju.meetna@prodentsadvisory.com"
+            email: "mailto:shaju.meetna@prodentsadvisory.com"
         }
     },
     {
@@ -52,7 +52,7 @@ const prodentsTeam = [
         socials: {
             linkedin: "https://www.linkedin.com/in/febin-tharakan-71010520b",
            
-            email: "febin@prodentsadvisory.com"
+            email: "mailto:febin@prodentsadvisory.com"
         }
     }
 ];
