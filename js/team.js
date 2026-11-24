@@ -5,7 +5,7 @@ const prodentsTeam = [
         role: "Founder & Managing Partner",
         // specialty: "Corporate Strategy & Operational Turnaround",
         bio: "An industry-turned-academician with eighteen years of distinguished service in the Indian Air Force and four years in academia. Bringing strong leadership, his expertise spans organisational analysis and human capital strategy.",
-        photo: "images/",
+        photo: "images/shaju.jpeg",
         initials: "SM",
         socials: {
             linkedin: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shaju-meetna-1685ba130&ved=2ahUKEwitkvmbio-YAxWUlOEIHSxhAe0QFnoECCwQAQ&sqi=2&usg=AOvVaw1rRT9FY0rBMTB83OogZ7YE",
@@ -48,11 +48,11 @@ const prodentsTeam = [
         // specialty: "Market Positioning & Venture Advisory",
         bio: "Advises scaling enterprises and founders on category positioning, customer-centred growth, and institutional readiness.",
         photo: "images/team-4.jpg",
-        initials: "MN",
+        initials: "FT",
         socials: {
-            linkedin: "https://linkedin.com",
+            linkedin: "https://www.linkedin.com/in/febin-tharakan-71010520b",
            
-            email: "mailto:meera@prodents.com"
+            email: "febin@prodentsadvisory.com"
         }
     }
 ];
